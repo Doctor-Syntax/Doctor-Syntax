@@ -1,5 +1,6 @@
 -  Hi, I’m @Doctor-Syntax
--  I'm interrested in almost every form of software dev. 
+-  // I am sorry if my englisch is not that good, i am Dutch. //
+-  I'm a young programmer and interrested in almost every form of software dev. I think it facinating how we can do like millions of calculations per second, and project 3d objects on a 2d screen 60 times a second...
 -  I’m currently learning c++ and beginning in a graphics library. I also have done a lot of javascript/html.
 -  You can reach me via my discord ('Doctor $yntax', or 'doc_syntax') or GitHub account for now.
 -  although i have 2 years of experience in programming, I can still learn a lot. And i want to do services like making an application for someone(in c++), to make some moneeey.
