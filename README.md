@@ -1,11 +1,8 @@
 -  Hi, I’m @Doctor-Syntax
--  // I am sorry if my englisch is not that good, i am Dutch. //
--  I'm a young programmer and interrested in almost every form of software dev. I think it facinating how we can do like millions of calculations per second, and project 3d objects on a 2d screen 60 times a second...
--  I’m currently learning c++ and beginning in a graphics library. I also have done a lot of javascript/html.
--  You can reach me via my discord ('Doctor $yntax', or 'doc_syntax') or GitHub account for now.
--  although i have 2 years of experience in programming, I can still learn a lot. And i want to do services like making an application for someone(in c++), to make some moneeey.
-  So if you have a practice idea(like an application) pls send me a request. When i am finished i would like to have some feedback.(the application is only an exe or the source code itself,
-  I am not going to place it in some store (like steam).
+-  I'm a young programmer, but I have bin in the field for quite some time already. I have made multiple projects (but I have to admit, I didn't finish most of them;), and am stil learning new and interesting ways to do stuff with a computer.
+-  right now I am working on my own programming language (more a scripting language) that runs in a custom runtime environment. It will support the basics of a language, but I am also implementing my own features like special operations, type handling in a certain way etc... The language is called Notar and feel free to ask more about it!
+-  Even tho I am busy at the moment and don't check Github that often, I am stil really learning and would like tips/tricks or project ideas (aswel for Notar)!
+-  In the future I want to focus on hacking and ethical hacking/security. if anyone knows where I should start, or has any tips for me in that field I am more than happy to listen!
 
 <!---
 Doctor-Syntax/Doctor-Syntax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
